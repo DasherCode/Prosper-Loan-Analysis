@@ -2,6 +2,7 @@
 ## by Awurigwe Joseph
 
 The data collection used for this research comes from Prosper, America's initial marketplace lender with over $7 billion in loans that have been funded. The 113,937 loans in this data set each have 81 characteristics, such as the loan amount, borrower rate (or interest rate), current loan status, borrower income, job status, credit history, and the most recent payment details.
+
 This project's primary goal is to use summary statistics and data visualizations to get some insights into the interactions between various variables and to summarize the features of variables that may have an impact on the loan status. Using univariate, bivariate, and multivariate plots, various visualizations are conducted in accordance with the project specifications.
 
 ## Dataset
